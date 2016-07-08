@@ -1,0 +1,18 @@
+c:\users\wxj\documents\visual studio 2013\Projects\P2PClient_Ethan\P2PClient_Ethan\bin\Debug\P2PClient_Ethan.exe.config
+c:\users\wxj\documents\visual studio 2013\Projects\P2PClient_Ethan\P2PClient_Ethan\obj\Debug\P2PClient_Ethan.csprojResolveAssemblyReference.cache
+c:\users\wxj\documents\visual studio 2013\Projects\P2PClient_Ethan\P2PClient_Ethan\obj\Debug\P2PClient_Ethan.P2PClient.resources
+c:\users\wxj\documents\visual studio 2013\Projects\P2PClient_Ethan\P2PClient_Ethan\obj\Debug\P2PClient_Ethan.Properties.Resources.resources
+c:\users\wxj\documents\visual studio 2013\Projects\P2PClient_Ethan\P2PClient_Ethan\obj\Debug\P2PClient_Ethan.csproj.GenerateResource.Cache
+c:\users\wxj\documents\visual studio 2013\Projects\P2PClient_Ethan\P2PClient_Ethan\bin\Debug\P2PClient_Ethan.exe
+c:\users\wxj\documents\visual studio 2013\Projects\P2PClient_Ethan\P2PClient_Ethan\bin\Debug\P2PClient_Ethan.pdb
+c:\users\wxj\documents\visual studio 2013\Projects\P2PClient_Ethan\P2PClient_Ethan\obj\Debug\P2PClient_Ethan.exe
+c:\users\wxj\documents\visual studio 2013\Projects\P2PClient_Ethan\P2PClient_Ethan\obj\Debug\P2PClient_Ethan.pdb
+C:\Users\Wxj\Desktop\P2PFile\P2PClient_Ethan\P2PClient_Ethan\bin\Debug\P2PClient_Ethan.exe.config
+C:\Users\Wxj\Desktop\P2PFile\P2PClient_Ethan\P2PClient_Ethan\obj\Debug\P2PClient_Ethan.exe
+C:\Users\Wxj\Desktop\P2PFile\P2PClient_Ethan\P2PClient_Ethan\obj\Debug\P2PClient_Ethan.pdb
+C:\Users\Wxj\Desktop\P2PFile\P2PClient_Ethan\P2PClient_Ethan\bin\Debug\P2PClient_Ethan.exe
+C:\Users\Wxj\Desktop\P2PFile\P2PClient_Ethan\P2PClient_Ethan\bin\Debug\P2PClient_Ethan.pdb
+C:\Users\Wxj\Desktop\P2PFile\P2PClient_Ethan\P2PClient_Ethan\obj\Debug\P2PClient_Ethan.csprojResolveAssemblyReference.cache
+C:\Users\Wxj\Desktop\P2PFile\P2PClient_Ethan\P2PClient_Ethan\obj\Debug\P2PClient_Ethan.P2PClient.resources
+C:\Users\Wxj\Desktop\P2PFile\P2PClient_Ethan\P2PClient_Ethan\obj\Debug\P2PClient_Ethan.Properties.Resources.resources
+C:\Users\Wxj\Desktop\P2PFile\P2PClient_Ethan\P2PClient_Ethan\obj\Debug\P2PClient_Ethan.csproj.GenerateResource.Cache
